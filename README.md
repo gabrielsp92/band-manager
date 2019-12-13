@@ -1,31 +1,7 @@
-# === INICIO DA CHECKLIST ===
-## ANTES DE INICIAR O DESENVOLVIMENTO, POR FAVOR SIGA OS PASSOS DESCRITOS ABAIXO
 
-* [ ] Remover a pasta `.git`
-* [ ] Iniciar um novo repositório com o comando `git init`
-* [ ] Atualizar os dados do **package.json**
-    * [ ] Nome do projeto
-    * [ ] Descrição do projeto
-    * [ ] Nome do autor
-* [ ] Atualizar os dados do **nuxt.config.js**
-    * [ ] Título da aplicação
-    * [ ] Nome do aplicativo PWA
-    * [ ] Nome do atalho na home (PWA)
-    * [ ] Cor da barra de progresso
-    * [ ] URLs da API
-* [ ] Atualizar os dados do **README.MD**
-    * [ ] Nome do projeto
-    * [ ] Descrição do projeto
-    * [ ] Inclua seu nome na lista de colaboradores, no lugar do atual responsável pelo projeto
-* [ ] Ler o arquivo README atentamente
-* [ ] Remover este bloco inteiro do arquivo **README.md** (O conteúdo deve iniciar com o nome do projeto)
-* [ ] Fazer o commit inicial do seu repositório
+# Band Manager
 
-# === FIM DA CHECKLIST ===
-
-# TITULO DO PROJETO
-
-> DESCRIÇÃO DO PROJETO
+> Web App for helping to manage band group tasks, finances and set lists
 
 ## Comandos do console
 
@@ -106,5 +82,5 @@ Todos os padrões abaixo devem ser respeitados. Qualquer alteração deve ser so
 
 ## Colaboradores
 Todas as pessoas que já ajudaram este projeto:
-- Seu Nome <seu_email@emiolo.com> - Responsável atual do projeto
+- Gabriel Soares Pereira <gsoaresp92@gmail.com> - Responsável atual do projeto
 - Antonio Eduardo <antonio@emiolo.com> - Definição da estrutura e os padrões de desenvolvimento

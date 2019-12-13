@@ -43,7 +43,15 @@ module.exports = {
    */
   vuetify: {
     defaultAssets: { font: true, icons: 'mdi' },
-
+    theme: {
+      dark: false,
+      themes: {
+        light: {
+          primary: '#D90808',
+          textColor: '#707070',
+        },
+      },
+    },
     /* Configurações opcionais de tema do Vuetify,
      * remova o que não for necessário nesse bloco
     customVariables: [‘~/assets/variables.scss’],
